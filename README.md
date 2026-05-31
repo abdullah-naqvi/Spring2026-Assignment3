@@ -6,3 +6,5 @@ Flask API with MySQL backend
 Run with: docker compose up -d
 ## Kubernetes Setup
 Run with: ./start.sh
+## Screenshots
+See PDF report for all screenshots
